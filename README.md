@@ -5,6 +5,7 @@ Hello, welcome to my first Python script. This script will work for you to combi
 If you are just starting to use Python, you will need to install the Pandas extension. In case another extension is underlined in yellow, you should install the other extensions.
 
 To install the extension, you must run the following command in the terminal of your code editor:
+
 `pip install pandas`
 
 In case your computer does not have permissions enabled and you get an error when installing, you should do the following:
